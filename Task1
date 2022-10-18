@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body >
+            
+    <h1 align="center">
+       My Country
+    </h1>
+    <img src="picture.jpg" width="900" height="200"
+    
+    <p align="center">
+        This is paragraph
+    </p >
+    <h2 align="center">
+        Heading text
+    </h2>
+    <p align="center">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero error maiores cum officia quia vitae nihil rerum quos quisquam sequi?
+    </p>
+   
+</body>
+</html>
